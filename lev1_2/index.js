@@ -26,14 +26,14 @@ const {
 // console.log(notFirst(names));
 // console.log(notFirst(numbers));
 
-console.log(position(names,55));
-console.log(position(numbers,69));
+// console.log(position(names,55));
+// console.log(position(numbers,69));
 
 // console.log(remove(names,'Christian'));
 // console.log(remove(numbers,55));
 
-// console.log(unique(names));
-// console.log(unique(numbers));
+console.log(unique(names));
+console.log(unique(numbers));
 
 // console.log(sum(numbers));
 

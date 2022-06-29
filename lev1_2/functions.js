@@ -32,7 +32,7 @@ const remove = (array,el) => {
 }
 
 const unique = (array) => {
-  return new Set(array);
+  return [...new Set(array)];
 }
 
 const sum = (array) => {
